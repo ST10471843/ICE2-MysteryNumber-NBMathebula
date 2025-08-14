@@ -22,11 +22,9 @@ The main goal of this app is to allow the user to guess a randomly generated num
 - Feature 4: A guess count giving feedback based on how many guesses have been inputted.
 - Feature 5: A restart game button.
 ---
-###Group Reflection:
+## Group Reflection:
 Working together helped us learn how to translate pseudocode into real code. We collaborated by break down tasks as equally as possible.
 ---
-
-## Screenshots
 
 ### App Screenshots:
 <img width="402" height="724" alt="mast 2 " src="https://github.com/user-attachments/assets/22124568-ceb7-4b02-acd4-0f04b30a7792" />
@@ -37,29 +35,14 @@ Working together helped us learn how to translate pseudocode into real code. We 
 
 During the development of this project, I encountered several challenges, including:
 
-1. **Challenge 1**: [Briefly describe a challenge you faced, e.g., "Implementing a complex feature like the login system."]
-   - **Solution**: [How you solved the challenge, e.g., "I researched Firebase authentication and successfully integrated it into the app."]
-
----
-
-## Future Enhancements
-
-1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
+1. **Challenge 1**: Implementing the guess count feature
+   - **Solution**: We researched it and successfully integrated it into the app
 
 ---
 
 ## References
 
-1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
-2. [Reference 2: Any relevant papers, documentation, or tutorials.]
-
----
-
-## List of Figures
-
-- **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the user profile screen.
-
+1. w3scools, 2025 .TypeScript Tutorial.Available at: https://www.w3schools.com/typescript/ (Accessed on 6 August 2025)
 ---
 
 
