@@ -7,7 +7,7 @@
 
 ## Links
 
--**Github link**: 
+-**Github link**: https://github.com/ST10471843/ICE2-MysteryNumber-NBMathebula.git
 ---
 
 ## Purpose and Features
